@@ -14,3 +14,13 @@ comment
 /**
 Formato do javadoc
 */
+
+KNOWLEDGE CHECK:
+1. What is the correct way to declare a variable of type int in Java?
+    int number = 10;
+
+2. Which of the following is true about comments in Java?
+    Comments do not affect program execution
+
+3. What is the proper file extension for a Java source file?
+    .java
