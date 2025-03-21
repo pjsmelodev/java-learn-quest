@@ -1,0 +1,1 @@
+Todo o código tem de estar dentro de classes
