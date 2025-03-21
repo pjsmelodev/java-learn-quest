@@ -1,0 +1,9 @@
+WORA - Write Once Run Anywhere
+Object Orientation
+
+WORA:
+    Pode correr em qualquer host com Java Virtual Machine (JVM)
+
+Video Question:
+Bytecodes are executed by the JVM and the bytecode instructions are translated into native machine code by the ___________.
+    JRE -> Java Runtime Environment (Not Joe Rogan Experience) -> que traduz para código nativo
