@@ -1,0 +1,6 @@
+TOOLS:
+
+javac - java compiler
+java - entry point
+javadoc - generate java documentation
+jdb - java debuger (pouco usado)
