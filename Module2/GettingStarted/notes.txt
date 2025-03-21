@@ -1,1 +1,5 @@
 Todo o código tem de estar dentro de classes
+
+VIDEO QUESTION:
+    What is the main method delimited by?
+        braces {}
