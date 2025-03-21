@@ -4,3 +4,16 @@ javac - java compiler
 java - entry point
 javadoc - generate java documentation
 jdb - java debuger (pouco usado)
+
+QUIZ:
+
+1. Which of the following are key features of Java Micro Edition (ME) as used in Blu-ray devices?
+    Optimized for embedded systems,
+    Lightweight Virtual Machine,
+    Reduced memory footprint
+
+2. Which of the following is a feature of the Jakarta EE API?
+    Support for building web services
+
+3. What is a distinguishing feature of Java Enterprise Edition (EE) compared to Java Standard Edition (SE)?
+    Support for distributed computing
