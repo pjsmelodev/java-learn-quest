@@ -1,0 +1,31 @@
+QUIZ:
+
+1. Java comes in which editions?
+    Standard (SE), Enterprise (EE) and Micro (ME)
+
+2. On which platforms does Java not run?
+    None of the above
+
+3. What is JDBC used for?
+    To connect Java applications with databases
+
+4. Java’s core syntax is derived from?
+    C
+
+5. Java’s WORA philosophy stands for …
+    Write Once, Run Anywhere
+
+6. True or False:  Java code is written to a specific platform.
+    False
+
+7. __________ can be used to group dozens, or hundreds of individual files used by Java.
+    Packages
+
+8. In Java, non-object data types are called ________ .
+    primitives
+
+9. Which Java version has become the most widely used in production environments, with approximately 45% of applications utilizing it.
+    Java 17
+
+10. Which edition of Java defines a set of APIs and configurations for embedded and mobile devices?
+    Java Micro-Edition (ME)
