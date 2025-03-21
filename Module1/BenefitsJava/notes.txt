@@ -1,0 +1,28 @@
+WORA - Write Once Run Anywhere
+Object Orientation
+
+WORA:
+    Pode correr em qualquer host com Java Virtual Machine (JVM)
+
+Video Question:
+Bytecodes are executed by the JVM and the bytecode instructions are translated into native machine code by the ___________.
+    JRE -> Java Runtime Environment (Not Joe Rogan Experience) -> que traduz para código nativo
+
+Java nodes are seperated by dots
+    Example:
+        package com.learnquest.calculator.util;
+
+Packages -> equivalente a libs
+
+Standard: usar os Domain names invertidos
+
+Video Question:
+    What are the nodes of Java package structure seperated by?
+        dot (.)
+
+Documentação: javadoc
+
+DATABASE:
+JDBC: Java Database Connectivity - JDBC packages are a key offering found in java.sql and included as part of the standard Java dist
+
+Usa Unicode
