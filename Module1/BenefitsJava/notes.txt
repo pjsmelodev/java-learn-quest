@@ -25,4 +25,15 @@ Documentação: javadoc
 DATABASE:
 JDBC: Java Database Connectivity - JDBC packages are a key offering found in java.sql and included as part of the standard Java dist
 
-Usa Unicode
+Uses Unicode
+
+QUIZ:
+
+1. JDBC packages are found in _______ .
+    java.sql
+
+2. In the Compilation to Execution process, what do you start with?
+    a Java source file
+
+3. Java code is compiled into an 'intermediate format' called ____________.
+    architecture nneutral bytecodes
