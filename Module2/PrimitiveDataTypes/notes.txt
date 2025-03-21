@@ -1,0 +1,17 @@
+TYPES OF CONSTRUCTS:
+    OUTERMOST BLOCKS
+        Classes,
+        Interfaces,
+        Annotations,
+        Enums
+    OTHER TYPES
+        Arrays,
+        Primitives
+
+O compilador assume que as primitives são ints
+Long -> long myLong = 23456L;
+
+O compilador assume que as primivas são doubles
+Float -> float myFloat = 234.78F
+
+Existe NaN e infinity em Java
