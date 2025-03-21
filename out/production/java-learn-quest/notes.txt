@@ -1,0 +1,10 @@
+QUIZ:
+
+1. Which of the following is a primary use of the Java Development Kit (JDK)?
+    To compile and run Java Programs
+
+2. What is the correct syntax to declare an integer variable named 'age' in Java?
+    int age;
+
+3. What is the primary role of the Java Virtual Machine (JVM)?
+    To translate Java bytecode into native machine code for execution
