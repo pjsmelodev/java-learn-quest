@@ -1,0 +1,32 @@
+EXAM:
+1. Java defines compound statements using?
+    Braces
+
+2. Which of the following is not a Java Primitive type?
+    complex
+
+3. Java statements end with a semicolon?
+    True
+
+4. Just like in C++, from which Java takes many ideas, you can have multiple public classes in a Java file?
+    False
+
+5. Which of the following is not a valid numeric literal in Java?
+    D: 0b7
+
+6. __________ is the automatic conversion the Java compiler makes between the primitive types and their corresponding object wrapper classes.
+    Autoboxing
+
+7. To create a stand-alone Java program, you need to include a special method. What is it?
+    The "main" method
+
+8. Which of the following are TRUE of Java naming conventions? (Select all that apply)
+    Names are used to denote classes, objects, attributes, and methods
+    Names are a sequence of letters, numbers, and underscores
+    Class names utilize Camel Case
+
+9. Real numbers are represented by ____________ types.
+    float and double
+
+10. ________ allow you to define a grouping of primitives or objects with the same name.
+    Arrays
