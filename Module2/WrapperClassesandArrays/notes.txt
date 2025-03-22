@@ -1,0 +1,27 @@
+WRAPPER CLASSES: classes correspondentes a tipos primitivos que permitem a instanciação de objetos
+    int i = 3;
+    Integer w1 = i;
+    Integer w2 = 5;
+Este processo chama-se Boxing
+O Java cria um objeto por nós
+
+Unboxing também é possível -> extrair a primitiva de um objeto
+    int j = w2;
+
+Sempre que possível, usar a primitiva
+
+ARRAY: (são objetos)
+    Guarda elementos (primivas ou objetos -> referências a primitivas) de um determinado tipo e têm comprimento
+    Zero index
+
+    INSTANCIAÇÃO:
+    int[] myIntArray = new int[25]; -> É um objeto
+
+    ATRIBUIÇÃO:
+    myIntArray[3] = 12;
+    int[] myIntArray = { 11, 12, 13, 14, 15 }; -> não preciso declarar comprimento
+
+ACTIVITY:
+    Create an array of strings by dragging the options onto the spaces below
+        String[] cars;
+        int[] myNum = { 10, 20, 30 };
