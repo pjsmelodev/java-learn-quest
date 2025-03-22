@@ -33,3 +33,13 @@ ACTIVITY:
         int a, b, c;
         short temperature;
         boolean isAcceptable;
+
+KNOWLEDGE CHECK:
+1. What is the default value of a boolean variable in Java if not explicitly initialized?
+    false
+
+2. How can you initialize a multidimensional array in Java?
+    int [][] arr = {{1,2},{3,4}};
+
+3. In Java, which primitive data type is used to represent true or false values?
+    boolean
