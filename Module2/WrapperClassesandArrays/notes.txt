@@ -25,3 +25,13 @@ ACTIVITY:
     Create an array of strings by dragging the options onto the spaces below
         String[] cars;
         int[] myNum = { 10, 20, 30 };
+
+KNOWLEDGE CHECK:
+1. Why were wrapper classes in Java 5 largely replaced by autoboxing and unboxing?
+    To simplify the conversion between primitive types and their corresponding wrapper classes
+
+2. How do you declare an array of integers in Java?
+    int[] numbers = new int[10];
+
+3. Which of the following are true about object references in Java?
+    int value = numbers[2];
