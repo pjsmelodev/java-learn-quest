@@ -25,3 +25,11 @@ int x, y, z;
 int x = 3;
 
 Se as variáveis não tiverem atribuição o Java dá-lhes um valor ("neutro")
+
+ACTIVITY:
+    Which of the following are ptimitives? (Select all that apply)
+        boolean flag = true;
+        byte b = 100;
+        int a, b, c;
+        short temperature;
+        boolean isAcceptable;
