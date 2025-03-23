@@ -37,3 +37,13 @@ if  (x < 8 && y < 10) {
 
 boolean b = x < 8 || y < 3;
     Se b for True, como se trata de um || (ou) a avaliação do segundo membro já nem sequer é feita
+
+KNOWLEDGE CHECK:
+1. Which of the following expressions correctly uses bitwise operators?
+    5 | 3
+
+2. What is the result of the unary operation −(−5) in Java?
+    5
+
+3. Which operator has the highest precedence in Java?
+    Perentheses (())
