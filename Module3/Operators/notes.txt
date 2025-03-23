@@ -23,3 +23,17 @@ ACTIVITY:
             --i
         Postfix increment; uses i in the expression and then increments it by 1
             i++
+
+Examples:
+
+int x = 7;
+int y = 9;
+
+if  (x < 8 && y < 10) {
+    // código a ser executado caso a expressão seja avaliada como verdadeira
+}
+
+----------------------------------------------------------------------------
+
+boolean b = x < 8 || y < 3;
+    Se b for True, como se trata de um || (ou) a avaliação do segundo membro já nem sequer é feita
