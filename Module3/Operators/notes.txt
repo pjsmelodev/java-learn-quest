@@ -1,0 +1,25 @@
+DOT OPERATOR:
+    Permite aceder a membros (dados ou métodos) de um objeto
+
+TESTE IGUALDADE/DIFERENÇA:
+    == -> teste de igualdade (diferente de atribuição)
+    != -> teste de diferença
+    NOTA: apenas aplicável a primitivas
+
+ACTIVITY:
+    Drag and drop the Assignment Operator code to each description
+        int i, j;
+        i = 32; // i takes the value 32
+        j = 23; // j takes the value 23
+        i = 27; // i is overwritten to 27
+        i = 0 + j;  // i and j are added, i takes the sum as the value
+
+    Match the Unary Operators with their descriptions
+        Prefix increment; increments i by 1 and then uses it in the expression
+            ++i
+        Postfix increment; uses i ini the expression and then decrements it by 1
+            i--
+        Prefix decrement; decrements i by 1 and then uses it in the expression
+            --i
+        Postfix increment; uses i in the expression and then increments it by 1
+            i++
