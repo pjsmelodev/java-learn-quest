@@ -19,7 +19,8 @@ Pode ter mais do que uma inicialização/incremento/decremento
         }
 
 FOR EACH / ENHANCED FOR:
-Sintaxe:
+    Faz loop sobre coisas que são Iterable
+    Sintaxe:
     for (type name : collection) {
         // invoke methods of name
     }
