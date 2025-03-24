@@ -11,6 +11,7 @@ public class SwitchExample {
                 price = 1.30;
                 break;
             case 100:   // no break, will always be processed
+                System.out.println("Will always happen -> no break");
             case 150:
                 price = 1.15;
                 break;
