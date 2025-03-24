@@ -3,7 +3,7 @@ public class ForEach {
         String[] sa = {"o1", "o2", "o3"};
 
         for (String s : sa) {
-            System.out.println(s.toString());
+            System.out.println(s);
         }
 
         System.out.println();
