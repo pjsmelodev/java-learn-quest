@@ -7,3 +7,5 @@ Sem {} não há blocos de código
             System.out.println("X is less then Y.");
         System.out.println("This line always prints."); // esta linha imprime sempre porque sem os {} está fora do if
 
+A indentação não tem significado em Java
+
