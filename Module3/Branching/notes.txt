@@ -17,3 +17,7 @@ ELSE:
 
 If's e else's podem estar aninhados noutros if's e else's.
 É possível usar else if.
+
+OPERADOR TERNÁRIO:
+int y = (x > 7) ? 2 : 5;
+    Se x > 7, então y = 2, caso contrário, y = 5
