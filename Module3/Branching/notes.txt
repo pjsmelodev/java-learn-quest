@@ -14,3 +14,5 @@ ELSE:
         System.out.println("Lemme at it!");
     else
         System.out.println("Save more money!");
+
+If's e else's podem estar aninhados noutros if's e else's
