@@ -24,3 +24,17 @@ FOR EACH / ENHANCED FOR:
     for (type name : collection) {
         // invoke methods of name
     }
+
+break; -> pára um ciclo
+return; -> pára todo o método e retorna um valor
+continue; -> pára a iteração atual e segue com a execução do código
+
+QUIZ:
+1. In Java, what is the purpose of the 'continue' statement within a loop?
+    To skip the current iteration and move to the next iteration of the loop
+
+2. How do 'while' loops function in Java?
+    They evaluate a condition before each iteration and execute the block if true
+
+3. How does a 'for' loop in Java help in iterating over collections?
+    It allows you to iterate over elements in a collection one by one
