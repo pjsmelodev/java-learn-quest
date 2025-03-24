@@ -17,3 +17,9 @@ Pode ter mais do que uma inicialização/incremento/decremento
         for(i = 0, j = 2; i < 10; i++, j += 3) {
             // bloco de código
         }
+
+FOR EACH / ENHANCED FOR:
+Sintaxe:
+    for (type name : collection) {
+        // invoke methods of name
+    }
