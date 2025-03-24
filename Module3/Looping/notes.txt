@@ -9,3 +9,11 @@ FOR LOOP:
 3- Incrementa/Decrementa
 4- Testa novamente...
 ...
+
+Pode ter mais do que uma inicialização/incremento/decremento
+    Usar vírgulas (,) para os seprar
+    Exemplo:
+        int i, j;
+        for(i = 0, j = 2; i < 10; i++, j += 3) {
+            // bloco de código
+        }
