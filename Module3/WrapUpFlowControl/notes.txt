@@ -1,0 +1,80 @@
+REVIEW:
+1. Which of the following is not a reserved word within the java language?
+    Class
+
+2. What does the following program do?
+
+
+     int x[] = {1,2,3,4,5,6,7,8,9};
+
+     for (int i : x) {
+
+      if(i%2 == 0){
+
+       System.out.println(i);
+
+      }
+
+     }
+
+    Prints out the numbers 2,4,6, and 8
+
+3. Which of the following is an incorrect syntax for a “for” loop?
+    for(int z=10;z<20){}
+
+4. What would be the output of the following program be?
+
+
+     String output = "";
+
+     int x = 2;
+
+     switch(x){
+
+     case 1:
+
+     case 2:
+
+     case 3:
+
+      output += "one,two,three,";
+
+     case 4:
+
+      output += "four,";
+
+      break;
+
+     case 5:
+
+      output += "five,";
+
+      break;
+
+     default:
+
+      output += "six";
+
+     output += "six";
+
+     }
+
+     one, two, three, four
+
+5. Which of the following is not a valid loop definition?
+    while (1) {}
+
+6. How else could you clarify the following?
+    if ((a<b) && (c<d)))
+
+7. Which of the following are logical operators? (Select all that apply).
+    ||, !, &&
+
+8. Relational operators result in a ________ value.
+    boolean
+
+9. True or False: The if statement works with the relational operators to execute a block of code ONLY if some condition is true.
+    True
+
+10. Which statement causes an immediate exit from that structure when executed in a while, for, do-while, or switch structure?
+    The break statement;
