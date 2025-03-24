@@ -26,3 +26,15 @@ SHORT CIRCUIT:
    Não avaliar a expressão na sua totalidade porque avaliar parte dela é o suficiente para devolver o seu resultado.
     Exemplos:
         if's, switch's, uso de operadores lõgicos
+
+SWIRCH:
+Sintaxe:
+    switch (<integral expression>) {
+        case label1:
+            <statement1>
+        case label2:
+            <statement2>
+        ...
+        default:
+            <statement>
+    }
