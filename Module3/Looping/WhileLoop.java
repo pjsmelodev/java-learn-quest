@@ -4,7 +4,7 @@ public class WhileLoop {
         int n = 20;
 
         while (count < n) {
-            System.out.println("*");
+            System.out.print("*");
             count++;
         }
     }

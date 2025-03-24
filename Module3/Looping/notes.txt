@@ -1,0 +1,2 @@
+System.out.print(); -> não cria uma nova linha
+System.out.println(); -> cria uma nova linha
