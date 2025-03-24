@@ -21,3 +21,8 @@ If's e else's podem estar aninhados noutros if's e else's.
 OPERADOR TERNÁRIO:
 int y = (x > 7) ? 2 : 5;
     Se x > 7, então y = 2, caso contrário, y = 5
+
+SHORT CIRCUIT:
+   Não avaliar a expressão na sua totalidade porque avaliar parte dela é o suficiente para devolver o seu resultado.
+    Exemplos:
+        if's, switch's, uso de operadores lõgicos
