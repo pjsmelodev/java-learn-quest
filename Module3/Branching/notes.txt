@@ -1,0 +1,9 @@
+Sem {} não há blocos de código
+    Exemplo:
+        int x = 7;
+        int y = 9;
+
+        if (x < y)
+            System.out.println("X is less then Y.");
+        System.out.println("This line always prints."); // esta linha imprime sempre porque sem os {} está fora do if
+
