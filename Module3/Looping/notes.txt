@@ -1,2 +1,11 @@
 System.out.print(); -> não cria uma nova linha
 System.out.println(); -> cria uma nova linha
+
+FOR LOOP:
+1- Inicializa
+2- Testa
+    2.1-  Se teste for True -> Executa o bloco de código
+    2.2- Caso contrário -> Não executa o bloco
+3- Incrementa/Decrementa
+4- Testa novamente...
+...
