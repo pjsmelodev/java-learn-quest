@@ -9,3 +9,8 @@ Sem {} não há blocos de código
 
 A indentação não tem significado em Java
 
+ELSE:
+    if (availableCash >= salePrice)
+        System.out.println("Lemme at it!");
+    else
+        System.out.println("Save more money!");
