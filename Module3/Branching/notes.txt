@@ -38,3 +38,45 @@ Sintaxe:
         default:
             <statement>
     }
+
+QUIZ:
+1. What is an alternative to complex nested IF statements?
+    ELSE-IF
+
+2. In a single statement code block, do you need the braces to execute one statement when your IF condition is true?
+    No
+
+3. What is the following an example of?
+
+   if ( x > 3 )  {
+
+       System.out.println("X is greater than 3.");
+
+       if ( y < 9 )  {
+
+             System.out.println("Y is greater than 9.");
+
+             z = x+y;
+
+       }
+
+       x--;
+
+   }
+
+   A Nested IF statement
+
+4. What is the following an example of?
+
+   if( highTide > bridgeHeight )
+
+       System.out.println("Get the boat!");
+
+   else
+
+      System.out.println("Get the car.");
+
+   An IF - ELSE statement
+
+5. What helps with readability when writing code?
+    Indentation
